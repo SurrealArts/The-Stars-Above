@@ -278,7 +278,7 @@ Mods: {
 					Threat: Livello pericolo: A- Anomalia
 					//Tier 3
 					Requirement: Stellaglyph al livello III necessario per il transito.
-					Loot: Risorse disponibili: Stellar Remnants
+					Loot: Risorse disponibili: Resti Stellari
 				}
 
 				Theranhad: {
@@ -287,34 +287,34 @@ Mods: {
 					Threat: Livello pericolo: B-
 					//Tier 3
 					Requirement: Stellaglyph al livello III necessario per il transito.
-					Loot: Risorse disponibili: Prismatic Cores
+					Loot: Risorse disponibili: Nuclei Prismatici
 				}
 
 				Celestia: {
 					Name: Celestia
-					Description: Un insieme di strutture brillanti e ben conservate, legate da un'energia mistica, un tempo al servizio di una figura potente, anche se persa nel tempo. Contribuito da: Izanagi, The wanderer of stars
+					Description: Un insieme di impressionanti strutture, conservate alla perfezione e legate da un'energia mistica, un tempo al servizio di una figura importante ormai dimenticata. Contribuito da: Izanagi, The wanderer of stars
 					Threat: Livello pericolo: C
 					//Tier 2
 					Requirement: Stellaglyph al livello II necessario per il transito.
-					Loot: Risorse disponibili: Prismatic Cores
+					Loot: Risorse disponibili: Nuclei Prismatici
 				}
 
 				FaintArchives: {
-					Name: Archivio Debole
-					Description:Un luogo strano e incontaminato che si trova in cima a una distesa di nuvole. Le mura ospitano una miriade di segreti e di misteri, alcuni dei quali minacciano di crollare. Contribuito da: UnkownSToast
+					Name: Archivi Languidi
+					Description: Uno strano posto, che si erge incontaminato in cima a una distesa di nuvole. Le mura ospitano una miriade di segreti e di misteri, alcuni dei quali minacciano di crollare. Contribuito da: UnkownSToast
 					Threat: Livello pericolo: B
 					//Tier 3
 					Requirement: Stellaglyph al livello III necessario per il transito.
-					Loot: Risorse disponibili: Unique Weapon Memory
+					Loot: Risorse disponibili: Ricordo di un'Arma Unica
 				}
 
 				UltraPlant: {
-					Name: Ultra Plant
+					Name: Ultra Centrale
 					Description: Un luogo sconosciuto popolato da strane figure sia immobili che viventi. Le continue scariche di elettricità costituiscono un ambiente ostile da attraversare ed esplorare. Contribuito da: Hockerzocker
 					Threat: Livello pericolo: C-B
 					//Tier 2
 					Requirement: Stellaglyph al livello II necessario per il transito.
-					Loot: Risorse disponibili: Unique Weapon Memory
+					Loot: Risorse disponibili: Ricordo di un'Arma Unica
 				}
 
 				QuestionMark: {
@@ -329,226 +329,226 @@ Mods: {
 
 		StellarArray: {
 			Misc: {
-				Confirm: Confirm your selection.
-				Reset: Reset your selection.
+				Confirm: Conferma le modifiche.
+				Reset: Azzera le modifiche.
 			}
 
 			AspectedDamageType: {
-				Description: If the weapon's type has changed, the weapon deals 10% less damage when active. (15% less when changed to Melee Damage)
-				LockHover: Aspected Weapon damage type is saved even after re-entering the world.
-				Melee.Name: Change the held Aspected Weapon to [c/FFAB4D:Melee Damage].
-				Rogue.Name: Change the held Aspected Weapon to [c/707070:Rogue Damage].
-				Healer.Name: Change the held Aspected Weapon to [c/FCEE72:Radiant Damage].
-				Bard.Name: Change the held Aspected Weapon to [c/FD5656:Symphonic Damage].
-				Thrower.Name: Change the held Aspected Weapon to [c/83EA53:Throwing Damage].
-				Magic.Name: Change the held Aspected Weapon to [c/EF4DFF:Magic Damage].
-				Ranged.Name: Change the held Aspected Weapon to [c/4DFF5B:Ranged Damage].
-				Summon.Name: Change the held Aspected Weapon to [c/00CDFF:Summon Damage].
+				Description: Se il tipo di danno dell'arma selezionato non è quello base, questa infligge il 10% del danno in meno. (15% in meno se si seleziona Danno da Mischia)
+          			LockHover: Riavviare il mondo non cancella la selezione del tipo di danno.
+				Melee.Name: Cambia il tipo di danno inflitto a [c/FFAB4D:Danno da Mischia].
+				Rogue.Name: Cambia il tipo di danno inflitto a [c/707070:Danno da Bandito].
+				Healer.Name: Cambia il tipo di danno inflitto a [c/FCEE72:Danno Radioso].
+				Bard.Name: Cambia il tipo di danno inflitto a [c/FD5656:Danno Sinfonico].
+				Thrower.Name: Cambia il tipo di danno inflitto a [c/83EA53:Danno da Lancio].
+				Magic.Name: Cambia il tipo di danno inflitto a [c/EF4DFF:Danno Magico].
+				Ranged.Name: Cambia il tipo di danno inflitto a [c/4DFF5B:Danno a Distanza].
+				Summon.Name: Cambia il tipo di danno inflitto a [c/00CDFF:Danno da Evocazione].
 			}
 
 			Abilities: {
 				Starshield: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Starshield']"
-					Description: When struck, gain 10% of your Max HP as defense for 2 seconds (20 second cooldown.) Additionally, gain 20 mana upon activation, and 20% damage increase for the duration of the shield.
-					Unlock: "[c/9D9D9D:Locked:] Defeat the Eye of Cthulhu"
+				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Scudo Stellare']"
+				    	Description: Quando vieni colpito, la difesa aumenta del 10% della tua vita massima per 2 secondi. (20 secondi di ricarica.) Inoltre, ripristina 20 mana quando quest'abilità si attiva, e aumenta del 20% il danno inflitto finché lo scudo è presente.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi l'Occhio di Cthulhu"
 				}
 
 				ButchersDozen: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Butcher's Dozen']"
-					Description: After 12 kills without leaving combat, gain 5% extra attack damage and 30% faster attack speed for 4 seconds (Kill counter will reset.)
-					Unlock: "[c/9D9D9D:Locked:] Defeat Nalhaun, the Burnished King"
+				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Dozzina del Macellaio']"
+				    	Description: Dopo 12 uccisioni senza uscire dal combattimento, aumenta del 5% il danno inflitto e del 30% la velocità d'attacco per 4 secondi (resettando il contatore di uccisioni)
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi Nalhaun, il Re Imbrunito"
 				}
 
 				EvasionMastery: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Evasion Mastery']"
-					Description: 3% chance to take 0 damage from an attack. Gain 25% movement speed.
-					Unlock: "[c/9D9D9D:Locked:] Defeat the Queen Bee"
+					Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Maestro della Schivata']"
+					Description: 3% di possibilità di schivare gli attacchi nemici. Aumenta del 25% la velocità di movimento.
+					Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi l'Ape Regina"
 				}
 
 				IronWill: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Iron Will']"
-					Description: Gain 6 defense. Take 30 less damage from attacks that deal over 100 damage. Below 100 HP, take 20% less damage from all attacks, independent of other defense calculations.
-					Unlock: "[c/9D9D9D:Locked:] Defeat the Eater of Worlds or Brain of Cthulhu"
+				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Volontà Ferrea']"
+				    	Description: Aumenta la difesa di 6. Subisci 30 danni in meno dagli attacchi che infliggono più di 100 danni. Se hai meno di 100 punti vita, subisci il 20% di danno in meno da ogni attacco, calcolato a parte dalle difese.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Divoratore di Mondi o il Cervello di Cthulhu"
 				}
 
 				UmbralEntropy: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Entropic Blight']"
-					Description: All attacks inflict Starblight on a critical strike. Gain Lifesteal on foes inflicted with Starblight. Healing is capped at 5 HP per second.
-					Unlock: "[c/9D9D9D:Locked:] Defeat the Moon Lord"
+				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Entropia Oscura']"
+				    	Description: Ogni colpo critico infligge Infezione Astrale. Colpire un nemico affetto da Infezione Astrale rigenera la tua vita. Max 5 punti vita al secondo.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Signore della Luna"
 				}
 
 				FlashFreeze: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Flash Freeze']"
-					Description: Landing a critical strike will cause foes to explode, taking half the original damage. Additionally, damaging snowflakes will spew from the target, spreading the damage. 8 second cooldown.
-					Unlock: "[c/9D9D9D:Locked:] Defeat the Empress of Light"
+				   	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Congelamento Istantaneo']"
+				   	Description: I colpi critici inflitti fanno esplodere i nemici, infliggendo il 50% del danno base nell'area circostante. Inoltre, vengono generati fiocchi di neve dal nemico colpito, allargando ulteriormente l'area in cui il danno viene inflitto. 8 secondi di ricarica.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi l'Imperatrice della Luce"
 				}
 
 				MysticForging: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Mystic Forging']"
-					Description: Critical strike chance is converted into on-hit damage at a 1%:0.5% ratio (Caps at 60%); Critical strikes are disabled unless triggered by a bonus effect. Gain up to 15% increased attack speed based on critical strike chance.
-					Unlock: "[c/9D9D9D:Locked:] Defeat Penthesilea, the Witch of Ink"
+				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Forgiatura Mistica']"
+				    	Description: Converte la chance di colpi critici in danno extra (1% critico = 0.5% danni extra, max 60%). I colpi critici sono disabilitati, a meno che non siano causati da un effetto speciale. Aumenta la velocità d'attacco fino al 15% in base alla chance di critico.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi Penthesilea, la Strega dell'Inchiostro"
 				}
 
-				InnerAlchemy: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Inner Alchemy']"
-					Description: After not taking damage for 12 seconds, gain 10% increased damage, 25 defense, knockback resistance, and Health Regeneration. Buffs are lost on hit.
-					Unlock: "[c/9D9D9D:Locked:] Defeat Skeletron"
+				InnerAlchemy:  {
+				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Alchimia Interiore']"
+				    	Description: Dopo 12 secondi senza subire danni, ottieni un buff che aumenta il danno inflitto del 10%, la difesa di 25, conferisce resistenza al Contraccolpo e Rigenerazione Salute. Il buff viene rimosso quando vieni colpito.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi Skeletron"
 				}
 
-				Hikari: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Crystalline Heart']"
-					Description: Gain bonus attack and defense proportional to Max HP divided by 20. Taking damage reduces outgoing damage by half for 6 seconds.
-					Unlock: "[c/9D9D9D:Locked:] Defeat the Ice Queen"
+				Hikari:	{
+				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Hikari']"
+				    	Description: Aumenta danno inflitto e difesa di (Vita Massima/20). Subire danno riduce il tuo attacco del 50% per 6 secondi.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi la Regina del Ghiaccio"
 				}
 
 				CelestialEvanesence: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Celestial Evanesence']"
-					Description: Critical strike chance is increased based on current Mana divided by 20. Landing a critical strike grants 5% of the damage dealt as Mana. (Max 5 per hit)
-					Unlock: "[c/9D9D9D:Locked:] Defeat Dioskouroi, the Twin Forces"
+				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Evanescenza Celestiale']"
+				    	Description: La probabilità di infliggere colpi critici aumenta del (Mana Attuale/20)% . Ogni colpo critico ripristina mana pari al 5% del danno inflitto. (Max 5 mana)
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi Dioskouroi, le Forze Gemelle"
 				}
 
 				SpectralNail: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Spectral Nail']"
-					Description: Every 5 strikes against a foe deals 30% bonus damage.
+					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Aculeo Spettrale']"
+					Description: Ogni quinto colpo contro un nemico infligge il 30% del danno extra.
 				}
 
 				Armsthrift: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Armsthrift']"
-					Description: Swapping weapons grants a 15% damage bonus for 5 seconds. This value is tripled if the weapon does not share the same damage type as the original weapon. (10 second cooldown.)
+					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Riutilizzo Armi']"
+					Description: Passare da un'arma ad un'altra aumenta il danno inflitto del 15% per 5 secondi. Il bonus triplica se la seconda arma non infligge lo stesso tipo di danno della prima. (10 secondi di ricarica.)
 				}
 
 				MysticIncision: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Mystic Incision']"
-					Description: Armor penetration now grants increased critical strike damage, up to 60% at 120 armor penetration. Gain 30% bonus armor penetration when in close proximity to foes.
+					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Incisione Mistica']"
+					Description: Penetrazione Armatura conferisce anche danno critico aumentato (max 60% con 120 Penetrazione). Quando un nemico è molto vicino, la Penetrazione Armatura aumenta del 30%.
 				}
 
 				StayTheCourse: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Stay The Course']"
-					Description: Every 10 seconds in combat, gain 1% damage reduction and 1% critical strike chance, up to 15%. After reaching the maximum buff, buff critical strike damage by the same amount.
+					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Concentrazione']"
+					Description: Ogni 10 secondi passati in combattimento, ottieni 1% riduzione danni e 1% chance di critico, fino al 15%. Dopo aver raggiunto il limite, il danno critico inflitto aumenta della stessa percentuale.
 				}
 
 				Catharsis: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Catharsis']"
-					Description: When health is reduced through any means, deal damage to all nearby foes based on 20% of the damage of your current held weapon.
+					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Catarsi']"
+					Description: Quando i punti vita vengono ridotti in qualsiasi modo, infliggi il 20% dei danni dell'arma equipaggiata in quel momento a tutti i nemici nelle vicinanze.
 				}
 
 				FabledFashion: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Fabled Fashion']"
-					Description: Equipped vanity armor is treated as if it is normal armor (Set bonuses do not apply.) Outgoing damage is reduced by 50%, defense is reduced by 50%, and maximum health is reduced by 150.
+					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Icona Fashion']"
+					Description: L'armatura equipaggiata negli slot costume viene considerata come un secondo set di armatura normale (il bonus armatura completa viene ignorato). Il danno inflitto e la difesa sono dimezzati, e la vita massima viene ridotta di 150 punti.
 				}
 
 				KineticConversion: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Kinetic Conversion']"
-					Description: A portion of movement velocity is added to outgoing damage. Gain brief Invincibility when dashing or moving quickly. (40 second cooldown.)
+					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Conversione Cinetica']"
+					Description: Una parte della velocità di movimento attuale viene aggiunta al danno inflitto. Diventa invulnerabile per un breve periodo durante scatti o corse. (40 secondi di ricarica.)
 				}
 
 				KiTwinburst: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Ki Twinburst']"
-					Description: All attacks are divided into two instances of damage.
+					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Doppio Assalto']"
+					Description: Tutti gli attacchi infliggono metà danno, ma colpiscono due volte.
 				}
 
 				ArborealEchoes: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Arboreal Echoes']"
-					Description: Dealing damage to unhurt foes heals 10 HP and increases damage of the first hit by 30%. Increase the potency of healing items by 30%.
+					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Echi Arborei']"
+					Description: Attaccare un nemico che non ha subito danni in precedenza ripristina 10 punti vita. Quel colpo infligge il 30% di danno extra. Aumenta l'efficacia degli oggetti curativi del 30%.
 				}
 
 				SwiftstrikeTheory: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Swiftstrike Theory']"
-					Description: Gain 80% increased attack speed during immunity frames.
+					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Teoria del Colpo Fulmineo']"
+					Description: La velocità di attacco è aumentata dell'80% durante di frame di immunità.
 				}
 
 				InevitableEnd: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Inevitable End']"
-					Description: Foes explode when defeated, dealing 50% of their Max HP in damage to nearby foes. When you die, deal 500% of your held weapon's damage to both nearby enemies and allies.
+					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Destino Inevitabile']"
+					Description: I nemici esplodono quando vengono uccisi, infliggendo danno pari al 50% della loro vita massima a tutti i nemici nei dintorni. Anche il Terrariano esplode quando muore, causando danni pari al 500% di quelli dell'arma equipaggiata in quel momento sia a nemici che ad alleati.
 				}
 
 				LavenderRefrain: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Lavender Refrain']"
-					Description: When taking damage, Mana is treated as bonus health. When this effect triggers, Max Mana is reduced by 40% until Max Mana is reduced by 100%. Max Mana slowly recovers after not taking damage for 10 seconds.
+					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Melodia di Lavanda']"
+					Description: Al posto di subire danni, il Mana massimo viene ridotto del 40% ogni volta che si viene colpiti, fino al suo esaurimento. Dopo aver evitato danni per 10 secondi, inizierà a ripristinarsi.
 				}
 
 				HealthyConfidence: {
-					Name: "[c/9C4FFF:Tier 2] [c/FFD792:'Healthy Confidence']"
-					Description: 15% of damage taken is restored as HP over time (10% of stored HP per second.)
-					Unlock: "[c/9D9D9D:Locked:] Have 400 or more natural Max HP"
+				    	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Sana Autostima']"
+				    	Description:  Ogni secondo, per 10 secondi dopo aver subito danno, recupera vita pari al 1.5% dei danni che subisci
+				    	Unlock: "[c/9D9D9D:Bloccato:] Alza la tua vita massima naturale a 400"
 				}
 
-				InfernalEnd: {
-					Name: "[c/9C4FFF:Tier 2] [c/FFD792:'Infernal End']"
-					Description: When below 100 HP, gain 50% increased damage and all attacks burn foes. Additionally, these effects will temporarily ignore the HP threshold for 3 seconds after taking damage.
-					Unlock: "[c/9D9D9D:Locked:] Defeat any Mechanical Boss"
+				InfernalEnd:  {
+				    	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Fine Infernale']"
+				    	Description: Quando hai meno di 100 punti vita, infliggi il 50% di danni in più e tutti gli attacchi bruciano i nemici. Quando subisci danno, per 3 secondi questi effetti vengono applicati a prescindere dalla vita attuale.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi un qualsiasi Boss Meccanico"
 				}
 
 				AvatarOfLight: {
-					Name: "[c/9C4FFF:Tier 2] [c/FFD792:'Avatar of Light']"
-					Description: Half of Max Mana is added to Max HP. At 500 HP or above, gain 10 defense, 5% damage, and 3 Stellar Nova Energy Regeneration.
-					Unlock: "[c/9D9D9D:Locked:] Defeat Martian Madness"
+				    	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Avatar di Luce']"
+				    	Description: Aumenta la vita massima di (Mana massimo/2). Se la vita massima supera 500, ottieni 10 difesa, 5% inflitti in più e rigenerazione della Nova Stellare (3 punti al secondo).
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi l'Invasione Marziana"
 				}
 
 				AstralMantle: {
-					Name: "[c/9C4FFF:Tier 2] [c/FFD792:'Astral Mantle']"
-					Description: 1/10th of current Mana is added to Defense (Max 5% of current Max HP.) Gain 5 Stellar Nova Energy Regeneration above 200 Mana.
-					Unlock: "[c/9D9D9D:Locked:] Defeat all Mechanical bosses"
+				    	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Mantello Astrale']"
+				    	Description: Aumenta la difesa del 10% del tuo mana attuale (max 5% della vita massima). Rigenera la Nova Stellare di 5 punti al secondo quando hai più di 200 mana.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi tutti i Boss Meccanici"
 				}
 
 				Afterburner: {
-					Name: "[c/9C4FFF:Tier 2] [c/FFD792:'Afterburner']"
-					Description: When Mana drops below 40, gain 150 Mana and all attacks critically strike for 4 seconds. 20 second cooldown.
-					Unlock: "[c/9D9D9D:Locked:] Defeat Plantera"
+				    	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Postcombustore']"
+				    	Description: Quando hai meno di 40 mana, ottieni 150 mana e tutti gli attacchi sono critici per 4 secondi. 20 secondi di ricarica.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi Plantera"
 				}
 
 				SpatialStratagem: {
-					Name: "[c/9C4FFF:Tier 2] [c/FFD792:'Spatial Stratagem']"
-					Description: Upon taking damage, halve all damage taken for 2 seconds (Includes original hit) and gain 20% increased damage for 4 seconds. 30 second cooldown. (Taking damage during the cooldown resets the cooldown)
-					Unlock: "[c/9D9D9D:Locked:] Defeat ???"
+				    	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Stratagemma Spaziale']"
+				    	Description: Dimezza la prima istanza di danno ricevuta. In seguito, dimezza tutti i danni nemici per 2 secondi e infliggi il 20% di danni extra per 4 secondi. 30 secondi di ricarica. (Subire danno durante la ricarica la resetta)
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi ???"
 				}
 
 				WeaknessExploit: {
-					Name: "[c/9C4FFF:Tier 2] [c/FFD792:'Weakness Exploit']"
-					Description: 10% of critical strike damage is converted to true damage (Will not kill.) Attacking foes inflicted with vanilla debuffs will deal 15% bonus true damage.
-					Unlock: "[c/9D9D9D:Locked:] Defeat Golem"
+				    	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Sfrutta Debolezza']"
+				    	Description: I colpi critici infliggono danno extra puro, pari al 10% del danno iniziale (non letale). I nemici afflitti da debuff presenti nel gioco base subiscono il 15% di danni in più.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Golem"
 				}
 
 				Aprismatism: {
-					Name: "[c/9C4FFF:Tier 2] [c/FFD792:'Aprismatism']"
-					Description: Aspected Damage Type changes will now apply to all weapons.
-					Unlock: "[c/9D9D9D:Locked:] Defeat Thespian, the Act of Alchemy"
+				    	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Aprismatismo']"
+				    	Description: Puoi cambiare il tipo di danno infltto da tutte le armi (anche quelle non della mod) tramite la Matrice Stellare.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi Thespian, l'Alchimista"
 				}
 
 				UnbridledRadiance: {
-					Name: "[c/D82BFF:Tier 3] [c/FFC258:'Unbridled Radiance']"
-					Description: Doubles the recharge rate of Stellar Nova Energy. Stellar Nova Energy does not deplete out of combat.
-					Unlock: "[c/9D9D9D:Locked:] Defeat all Terraria bosses and the Warrior of Light"
+				    	Name: "[c/D82BFF:Livello 3] [c/FFC258:'Luminosità Sconfinata']"
+				    	Description: Raddoppia la rigenerazione della Stellar Nova. La Stellar Nova non si scarica al di fuori del combattimento.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi tutti i boss di Terraria e il Guerriero della Luce"
 				}
 
 				BetweenTheBoundary: {
-					Name: "[c/D82BFF:Tier 3] [c/FFC258:'Between the Boundary']"
-					Description: Every 8 seconds, swap between Ebb (drastic Mana drain) and Flow (infinite Mana Regeneration.) Additionally, gain 40% increased damage and 20% increased attack speed during Flow.
-					Unlock: "[c/9D9D9D:Locked:] Defeat the Warrior of Light"
+				    	Name: "[c/D82BFF:Livello 3] [c/FFC258:'In Mezzo al Confine']"
+				    	Description: Ogni 8 secondi, cambia stato tra Flusso (rigenerazione del mana infinita) e Riflusso (rapido prosciugamento mana). Durante Flusso infliggi il 40% danno in più e la velocità d'attacco aumenta del 20%.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi tutti i boss di Terraria e tutti i boss della The Stars Above, eccetto il boss finale"
 				}
 
 				CyclicHunter: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Cyclic Hunter']"
-					Description: After defeating an enemy, gain 10% increased damage for half a second. Additionally, gain Mana based on 5% of the foe's Max HP + 12. 2 second cooldown.
-					Unlock: "[c/9D9D9D:Locked:] Defeat the Slime King"
+				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Cacciatore Ciclico']"
+				    	Description: Dopo aver sconfitto un nemico, infliggi il 10% di danno in più per mezzo secondo e ripristina (5% della vita massima del nemico + 12) mana. 2 secondi di ricarica.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Re Slime"
 				}
 
 				LivingDead: {
-					Name: "[c/C2BDFF:Tier 1] [c/FFEED1:'Living Dead']"
-					Description: Survive most fatal damage for 6 seconds, but if HP is not healed above 150 when the buff ends, you will die. (4 minute cooldown) You need 200+ Max HP to confirm this ability.
-					Unlock: "[c/9D9D9D:Locked:] Defeat Pumpking"
+				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Morto Vivente']"
+				    	Description: Quando ricevi danno fatale, ritarda la tua morte per 6 secondi, alla fine dei quali muori se la tua vita non è almeno 150. (4 minuti di ricarica). Non puoi attivare quest'abilità se la tua vita massima non è almeno 200.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Re Zucca"
 				}
 
 				BeyondInfinity: {
-					Name: "[c/D82BFF:Tier 3] [c/FFC258:'Beyond Infinity']"
-					Description: Lower rarity Aspected Weapons gain drastic bonus damage based on their original rarity, up to 1200% base damage. Does not affect weapons with more than 100 base damage.
-					Unlock: "[c/9D9D9D:Locked:] Defeat all Terraria bosses"
+				    	Name: "[c/D82BFF:Livello 3] [c/FFC258:'Oltre l'Infinito']"
+				    	Description: Le armi con Aspetto di rarità inferiore ottengono un enorme bonus (fino al 1200%) al danno in base alla loro rarità originale. Non ha effetto su armi con un danno base superiore a 100.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi tutti i boss di Terraria"
 				}
 
-				KeyOfChronology: {
-					Name: "[c/D82BFF:Tier 3] [c/FFC258:'Key Of Chronology']"
-					Description: Taking over 200 damage at once will instead heal you for that amount and grant 5 seconds of Invincibility. Additionally, all nearby non-boss enemies will be Stunned for 5 seconds. 2 minute cooldown.
-					Unlock: "[c/9D9D9D:Locked:] Defeat the Moon Lord"
+			  	KeyOfChronology: {
+				    	Name: "[c/D82BFF:Livello 3] [c/FFC258:'Chiave della Cronologia']"
+				    	Description: Invece di subire un attacco da almeno 200 danni, ripristina altrettanta vita e diventa Invulnerabile per 5 secondi. Inoltre, tutti i nemici non-boss nei dintorni vengono storditi per 5 secondi. 2 minuti di ricarica.
+				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Signore della Luna"
 				}
 			}
 		}
@@ -17018,11 +17018,11 @@ Mods: {
 			PenthesileaBoss: Maestra delle arti arcane, la Strega dell'Inchiostro fu un tempo sovrana di un mondo interamente 'disegnato' da lei stessa. Burlona per natura, ha imparato magie complesse col solo scopo di fare scherzi ai colleghi manipolando i loro dipinti. Il primo Starbearer la sconfisse dopo un lungo conflitto: avrebbe sicuramente provato ad interferire se fosse stata ancora in vita...
 			PrismLoot: Talvolta l'energia magica latente dei Nuclei Prismatici può portarli a navigare la galassia senza meta. Prendine uno, e verrai ricompensato!
 			SpectreOfLight: Un eroe di mondi lontani, evocato dal Primo Starbearer per assaltare queste terre.
-			TsukiyomiBoss: La Prima Starfarer, Tsukiyomi, colei che controlla ogni astro. I suoi poteri derivano dalla forza gravitazionale del pianeta su cui si trova e dei satelliti che lo orbitano. Ha convinto il Guerriero di Luce a usare il suo immenso potere per conquistare e distruggere una miriade di stelle... Eppure...
-			CastorBoss: La Forza del Fuoco, un Figlio del Male. I Figli del Male sono una razza demoniaca estremamente competitiva, e l'essere una grande famiglia li ha resi ancora più aggressivi conro i loro simili. Durante il loro eterno duello, osservare il proprio avversario è la priorità assoluta. È ironico come questo comportamento li abbia resi guerrieri mediocri contro ogni altro nemico. Sono stati massacrati dal Primo Starbearer, che dopo aver interrotto la loro sfida non ha avuto problemi a disfarsene.
-			PolluxBoss: Le forze di Ghiaccio e Fuoco, Gemelli del Male. I Figli del Male sono una razza demoniaca estremamente competitiva, e l'essere una grande famiglia li ha resi ancora più aggressivi conro i loro simili. Durante il loro eterno duello, osservare il proprio avversario è la priorità assoluta. È ironico come questo comportamento li abbia resi guerrieri mediocri contro ogni altro nemico. Sono stati massacrati dal Primo Starbearer, che dopo aver interrotto la loro sfida non ha avuto problemi a disfarsene.
+			TsukiyomiBoss: La Prima Starfarer, Tsukiyomi, colei che controlla ogni astro. I suoi poteri derivano dalla forza gravitazionale del pianeta su cui si trova e dei satelliti che lo orbitano. Ha convinto il Guerriero della Luce a usare il suo immenso potere per conquistare e distruggere una miriade di stelle... Eppure...
+			CastorBoss: La Forza del Fuoco, un Figlio del Male. I Figli del Male sono una razza demoniaca estremamente competitiva, e l'essere una grande famiglia li ha resi ancora più aggressivi contro i loro simili. Durante il loro eterno duello, osservare il proprio avversario è la priorità assoluta. È ironico come questo comportamento li abbia resi guerrieri mediocri contro ogni altro nemico. Sono stati massacrati dal Primo Starbearer, che dopo aver interrotto la loro sfida non ha avuto problemi a disfarsene.
+			PolluxBoss: Le forze di Ghiaccio e Fuoco, Gemelli del Male. I Figli del Male sono una razza demoniaca estremamente competitiva, e l'essere una grande famiglia li ha resi ancora più aggressivi contro i loro simili. Durante il loro eterno duello, osservare il proprio avversario è la priorità assoluta. È ironico come questo comportamento li abbia resi guerrieri mediocri contro ogni altro nemico. Sono stati massacrati dal Primo Starbearer, che dopo aver interrotto la loro sfida non ha avuto problemi a disfarsene.
 			VagrantBoss: L'enigmatico Starfarer Perseus. All'apparenza sembra assolutamente sicuro di se... in realtà è solo un inetto che se la tira troppo, stando all'opinione delle sue sorelle. Mantiene il controllo sullo spazio, ma sembra aver perso quello sul tempo (gli resta il nomignolo).
-			WarriorOfLight: Il Guerriero di Luce, o il Primo Starbearer, era un tempo considerato il simbolo di giustizia in tutta la galassia, grazie alle sue azioni e all'aiuto della sua Starfarer. Un tempo sovrano di un mondo in pace, fu costretto a guardare la sua gente morire e giurò che un evento simile non sarebbe mai più avvenuto sotto la sua responsabilità- a qualunque costo.
+			WarriorOfLight: Il Guerriero della Luce, o il Primo Starbearer, era un tempo considerato il simbolo di giustizia in tutta la galassia, grazie alle sue azioni e all'aiuto della sua Starfarer. Un tempo sovrano di un mondo in pace, fu costretto a guardare la sua gente morire e giurò che un evento simile non sarebbe mai più avvenuto sotto la sua responsabilità, a qualunque costo.
 			AsteroidWorm: Queste tenaci creature hanno acquisito la capacità di muoversi senza meta nel vuoto cosmico. Non un'evoluzione ideale. Nonostante abbiano poche occasioni per nutrirsi, sono in grado di vivere molto a lungo senza cibo. Possiedono un carapace resistente, ma non sono in grado di causare seri danni.
 			Soulless: Una sfortunata vittima dell'Apocalisse avvenuta a Caelum. La sua incarnazione è tenuta in vita dal Mana, ma ogni traccia di vita al di fuori di un battito è svanita tanto tempo fa...
 			Yojimbo: Un misterioso Lumen, il cui nome sembra cambiare in base a quando e dove lo si incontri. Si mantiene cacciando taglie. Insistere abbastanza potrebbe portarlo a svelare qualche informazione...
@@ -17032,8 +17032,8 @@ Mods: {
 			Tsukiyomi2: ???
 			ThespianBoss: Un leggendario alchimista, defunto ma rianimato da un terrificante agente del caos. Considerando il suo stato mentale, non c'è altra scelta se non seguire i suoi ordini, a meno che non si voglia fare una brutta fine...
 			StarfarerBoss: Già, siamo noi.
-			LogicBombEnemy: Questo ammasso di energia è ciò che rende un Virus Logico pericoloso. Il suo obiettivo è schiantarsi contro altre creature viventi, per trasformarle a loro volta in Virus Logici. Per quanto questo effetto avvenga solo contro dei robot, all'impatto anche ad un umano sembrerà di aver preso in faccia un quintale di plasma incandescente. Il che potrebbe essere peggio.
-			LogicVirusEnemy: Un minuscolo soldato, le caratteristice principale del Virus Logico sono la spaventosa quantità di energia che trasportano e la loro abilità di moltiplicarsi. Purtroppo per loro, non gli è facile muoversi in ambienti ristretti.
+			LogicBombEnemy: Questo ammasso di energia è ciò che rende un Virus Logico pericoloso. Il suo obiettivo è schiantarsi contro altre creature viventi, per trasformarle a loro volta in Virus Logici. Per quanto questo effetto avvenga solo contro dei robot, la potenza è tale che all'impatto anche ad un umano sembrerà di aver preso in faccia un quintale di plasma incandescente. Il che potrebbe essere peggio.
+			LogicVirusEnemy: Minuscol soldati, le caratteristiche principali dei Virus Logici sono la spaventosa quantità di energia che trasportano e la loro abilità di moltiplicarsi. Purtroppo per loro, non gli è facile muoversi in ambienti ristretti.
 			SemaphoreEnemy: Questo peculiare attrezzo alato, conosciuto come Semaphore, è in grado di estrarre dati dal cielo del Velo di Neon e, di conseguenza, farlo precipitare contro il suo sfortunato bersaglio.
 		}
 
