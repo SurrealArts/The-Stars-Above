@@ -6064,51 +6064,52 @@ Mods: {
 
 		NPCs: {
 			Astrologian: {
-				DisplayName: Astrologian
+				DisplayName: Astrologa
 
 				# This is what displays during all of an NPC's happiness levels.
 				TownNPCMood: {
-					Content: I have no complaints.
-					NoHome: Just because I enjoy looking at the stars does not mean I wish to be without a roof.
-					FarFromHome: I hate to ask, but where am I?
-					LoveSpace: Extra space to take measurements is always appreciated.
-					DislikeCrowded: I enjoy the lively atmosphere, but everything has its limit- I've found mine.
-					HateCrowded: You've got to be kidding me. I can't even setup my telescope without it getting knocked over, to say nothing of the light pollution.
-					LoveBiome: Is it not obvious? The best location to view the stars is Space.
-					LikeBiome: I have no complaints about {BiomeName}. The horizon is a poigant view, after all.
-					DislikeBiome: As a faerie, you'd think I'd prefer {BiomeName}. Let it be known that I do not. Try looking through a telescope while being trampled by a unicorn.
-					HateBiome: Seriously? {BiomeName}? You must have some grievances against me... Feel free to share.
-					LoveNPC: There's no way around it: {NPCName} is much better at magecraft than I. I'd love to learn under his tutelage.
-					LikeNPC: A fellow scientist in {NPCName} provides valuable discourse.
-					DislikeNPC: It's not that I hate {NPCName}... however, we couldn't be more different in our tastes.
-					HateNPC: Brash, unlearned, and uncouth. {NPCName} is the distilled essence of individual I wish to never lay eyes on.
-					LikeNPC_Princess: "{NPCName} is a princess? It may be pertinent to build rapport- their coffers could afford stronger instruments, for one."
-					Princess_LovesNPC: "{NPCName} is so exotic! Isn't that something to admire?"
+					Content: Niente di cui lamentarmi.
+					NoHome: Mi piace osservare le stelle, ma non è un buon motivo per lasciarmi senza casa!
+					FarFromHome: ...come ci sono finita qui?
+					LoveSpace: Apprezzo avere lo spazio per prendere bene le misure.
+					DislikeCrowded: Non mi dispiace avere gente intorno, ma tutto ha un limite. E questo è il mio.
+					HateCrowded: Sto perdendo la pazienza. Non riesco neanche a mettere a posto il telescopio senza che qualcuno lo butti a terra. Per non parlare dell'inquinamento luminoso...
+					LoveBiome: È piuttosto evidente che il miglior luogo da cui osservare lo spazio sia, beh, lo spazio stesso.
+					LikeBiome: {BiomeName}, hm? Non male. L'orizzonte è una vista nostalgica, dopo tutto.
+					DislikeBiome: In quanto fata, ha senso pensare che {BiomeName} sia il mio preferito. Sia chiaro: non lo è. Mai provato ad usare un telescopio mentre un unicorno ti sta caricando?
+					HateBiome: Davvero? {BiomeName}? Devo aver fatto qualcosa per offenderti... Se vuoi parlarmene, sono a tua disposizione.
+					LoveNPC: C'è poco da fare: {NPCName} è molto più capace di me se si parla di magia. Sarebbe un onore imparare da lui.
+					LikeNPC: Con uno scienziato come {NPCName} potrei parlare per ore.
+					DislikeNPC: Non odio {NPCName}, ma non potremmo avere gusti più diversi.
+					HateNPC: Arrogante, rozzo e pure ignorante. {NPCName} è l'esempio perfetto di persona che vorrei sparisse dalla mia vita.
+					LikeNPC_Princess: "{NPCName} è una principessa? Sarebbe sensato farsela amica. Potrei farmi regalare i migliori strumenti!"
+					Princess_LovesNPC: "{NPCName} è così... esotica! Non è incredibile?"
 				}
 
 				# This key is generated and used when the "Census" mod is enabled: It allows the user to see the spawn condition of this town NPC in the Housing UI
-				Census.SpawnCondition: Have a Weapon Memory in your inventory
+				Census.SpawnCondition: Tieni una Weapon Memory nell'inventario
 			}
 
 			Arbitration.DisplayName: Arbitration
-			AstralCell.DisplayName: Starcell
-			DummyEnemy.DisplayName: Dummy Enemy
-			CastorBoss.DisplayName: Castor, Baleborn Force
-			Dioskouroi.DisplayName: Dioskouroi, the Twin Forces
-			NalhaunBoss.DisplayName: Nalhaun, the Burnished King
-			PaintedAttendantA.DisplayName: Living Brush
-			PaintedAttendantB.DisplayName: Living Brush
-			PrismLoot.DisplayName: Prismatic Core
-			SpectreOfLight.DisplayName: Spectre Of Light
-			VagrantOfSpaceAndTime.DisplayName: The Vagrant of Space and Time
-			WarriorOfLight.DisplayName: The Warrior Of Light
+			AstralCell.DisplayName: Cellula Astrale
+			DummyEnemy.DisplayName: Manichino
+			CastorBoss.DisplayName: Castor, Forza del Male
+			Dioskouroi.DisplayName: Dioskouroi, le Forze Gemelle
+			NalhaunBoss.DisplayName: Nalhaun, il Re Imbrunito
+			PaintedAttendantA.DisplayName: Pennello Vivente
+			PaintedAttendantB.DisplayName: Pennello Vivente
+			PrismLoot.DisplayName: Nucleo Prismatico
+			SpectreOfLight.DisplayName: Spettro di Luce
+			VagrantOfSpaceAndTime.DisplayName: Viaggiatore dello Spaziotempo
+			WarriorOfLight.DisplayName: Il Guerriero della Luce
 			Nalhaun.DisplayName: Mods.StarsAbove.NPCName.Nalhaun
-			AmethystHeadpiercer.DisplayName: Amethyst Headpiercer
-			AmethystSwordsinner.DisplayName: Amethyst Swordsinner
+			AmethystHeadpiercer.DisplayName: Assassino dell'Ametista
+			AmethystSwordsinner.DisplayName: Peccatore dell'Ametista
+			# What about these next three?
 			AsteroidWormBody.DisplayName: Stardigrade
 			AsteroidWormHead.DisplayName: Stardigrade
 			AsteroidWormTail.DisplayName: Stardigrade
-			Soulless.DisplayName: Soulless
+			Soulless.DisplayName: Senz'anima
 			Garridine.DisplayName: Garridine
 			Yojimbo.DisplayName: Yojimbo
 			DioskouroiWallsNPC.DisplayName: ""
@@ -6116,57 +6117,57 @@ Mods: {
 			VagrantWalls.DisplayName: ""
 			VagrantWallsHorizontal.DisplayName: ""
 			VagrantWallsVertical.DisplayName: ""
-			WarriorOfLightBoss.DisplayName: The Warrior Of Light
+			WarriorOfLightBoss.DisplayName: Il Guerriero della Luce
 			WarriorWallsNPC.DisplayName: ""
 			WarriorOfLightOld.DisplayName: ""
-			GardenOfAvalonNPC.DisplayName: Garden Of Avalon
+			GardenOfAvalonNPC.DisplayName: Giardini di Avalon
 
 			VagrantBoss: {
-				DisplayName: The Vagrant of Space and Time
+				DisplayName: Il Viaggiatore dello Spaziotempo
 
 				BossChecklistIntegration: {
-					EntryName: The Vagrant of Space and Time
-					SpawnInfo: Defeat this strange foe through the Shattered Disk, obtained from your Starfarer after the Eye of Cthulhu is defeated. This fight will be critical to progression later!
+					EntryName: Il Viaggiatore dello Spaziotempo
+					SpawnInfo: Sconfiggi questo strano nemico utilizzando il Disco Frantumato, ottenuto dalla tua Viaggiatrice Stellare dopo aver eliminato l'Occhio di Cthulhu. Questa battaglia è importante per progredire nella storia!
 					DespawnMessage: ""
 				}
 			}
 
 			ThespianBoss: {
-				DisplayName: Thespian, the Act of Alchemy
+				DisplayName: Thespian, l'Atto Alchemico
 
 				BossChecklistIntegration: {
-					EntryName: Thespian, the Act of Alchemy
-					SpawnInfo: Challenge this strange enemy through inquiring about the Strange Potion with the Astrologian. She moves into town after you obtain a Weapon Memory or defeat the Vagrant of Space and Time.
+					EntryName: Thespian, l'Atto Alchemico
+					SpawnInfo: Affronta questo strano nemico chiedendo all'Astrologa di una Strana Pozione. L'Astrologa arriva in città dopo aver ottenuto una Weapon Memory o dopo aver sconfitto il Viaggiatore dello Spaziotempo.
 					DespawnMessage: ""
 				}
 			}
 
 			PolluxBoss: {
-				DisplayName: Pollux, Baleborn Force
+				DisplayName: Pollux, Forza del Male
 
 				BossChecklistIntegration: {
-					EntryName: Dioskouroi, the Twin Forces
-					SpawnInfo: Defeat these demonic twins through use of the Twincrux Pendant, granted after defeating Skeletron. (The Vagrant of Space and Time must have been defeated.)
+					EntryName: Dioskouroi, le Forza Gemelle
+					SpawnInfo: Evoca i gemelli demoniaci tramite il Ciondolo Incrociato, ottenuto dopo aver sconfitto Skeletron. (Il Viaggiatore dello Spaziotempo dev'essere stato sconfitto)
 					DespawnMessage: ""
 				}
 			}
 
 			PenthesileaBoss: {
-				DisplayName: Penthesilea, the Witch of Ink
+				DisplayName: Penthesilea, la Strega dell'Inchiostro
 
 				BossChecklistIntegration: {
-					EntryName: Penthesilea, the Witch of Ink
-					SpawnInfo: Face this fearsome foe with the Unsullied Canvas, given to you by your Starfarer after the mechanical twin eyes are bested. (The Vagrant of Space and Time must have been defeated.)
+					EntryName: Penthesilea, la Strega dell'Inchiostro
+					SpawnInfo: Affronta questo temibile avversario utilizzando la Tela Bianca, che la tua Viaggiatrice Stellare ti regalerà dopo aver sconfitto i Gemelli Meccanici. (Il Viaggiatore dello Spaziotempo dev'essere stato sconfitto)
 					DespawnMessage: ""
 				}
 			}
 
 			NalhaunBossPhase2: {
-				DisplayName: Nalhaun, Ruler of the Hollow World
+				DisplayName: Nalhaun, Sovrano del Vuoto
 
 				BossChecklistIntegration: {
-					EntryName: Nalhaun, the Burnished King
-					SpawnInfo: Confront this aged monarch with the Ancient Crown, given to you by your Starfarer after Golem is defeated. (The Vagrant of Space and Time must have been defeated.)
+					EntryName: Nalhaun, il Re Imbrunito
+					SpawnInfo: Scontrati con il Monarca usando la Corona Antica, ottenuta dalla tua Viaggiatrice Stellare dopo aver sconfitto il Golem. (Il Viaggiatore dello Spaziotempo dev'essere stato sconfitto)
 					DespawnMessage: ""
 				}
 			}
@@ -6176,47 +6177,47 @@ Mods: {
 
 				BossChecklistIntegration: {
 					EntryName: Arbitration
-					SpawnInfo: This mysterious foe lurks in Anomaly subworlds- staying too long in one will take you to Katabasis, where it awaits. Defeating this boss drops an item which will take you immediately to Katabasis. With MP Compatibility Mode, you can get this item by traveling to Lyra.
+					SpawnInfo: Questo misterioso nemico vaga in un luogo remoto conosciuto come Katabasis, dimensione alternativa nei mondi Anomalia a cui è possibile accedere standovi troppo a lungo. Sconfiggendo questo boss si otterrà un oggetto in grado di trasportare istantaneamente l'utilizzatore a Katabasis. Se la modalità Compatibilità Multiplayer è attiva, puoi ottenere quest'oggetto a Lyra.
 					DespawnMessage: ""
 				}
 			}
 
 			StarfarerBoss: {
-				DisplayName: Asphodene and Eridani
+				DisplayName: Eridani e Asphodene
 
 				BossChecklistIntegration: {
-					EntryName: Asphodene and Eridani
-					SpawnInfo: Face your Starfarers in this friendly bout- unlocked after defeating Plantera (ALL prior bosses from The Stars Above must have been defeated!)
+					EntryName: Eridani e Asphodene
+					SpawnInfo: Affronta le due Viaggiatrici Stellari in questo scontro amichevole dopo aver sconfitto Plantera. (TUTTI i boss della The Stars Above mod devono essere stati eliminati!)
 					DespawnMessage: ""
 				}
 			}
 
 			WarriorOfLightBossFinalPhase: {
-				DisplayName: The Warrior of Light
+				DisplayName: Il Guerriero della Luce
 
 				BossChecklistIntegration: {
-					EntryName: The Warrior of Light
-					SpawnInfo: After defeating the Moon Lord, strange events may occur. After 2 in game days (this can not be sped up through any means) you can obtain an item from your Starfarer to continue.
+					EntryName: Il Guerriero della Luce
+					SpawnInfo: Dopo aver vinto il Signore della Luna, potrebbero verificarsi fenomeni peculiari. Dopo 48 ore (nel gioco, che non possono essere accelerate in alcun modo) la tua Viaggiatrice Stellare ti offrirà una soluzione a questa situazione.
 					DespawnMessage: ""
 				}
 			}
 
 			TsukiyomiBoss: {
-				DisplayName: Tsukiyomi, the First Starfarer
+				DisplayName: Tsukiyomi, la Prima Viaggiatrice
 
 				BossChecklistIntegration: {
 					EntryName: Tsukiyomi, the First Starfarer
-					SpawnInfo: The time has finally come. Craft all the Mnemonic Traces together with the Celestriad Root to create the Mnemonic Sigil, and use it to be taken to Tsukiyomi's boss arena.
+					SpawnInfo: Il momento è finalmente giunto. Unisci tutte le Tracce Mnemoniche alla Radice Celestiale per creare il Sigillo Mnemonico, e usalo per essere portato all'arena di Tsukiyomi.
 					DespawnMessage: ""
 				}
 			}
 
-			ParacausalEntity.DisplayName: Paracausal Watcher
-			ParacausalEnigma.DisplayName: Paracausal Enigma
-			StarfarerBossWallsNPC.DisplayName: Starfarer Boss Walls N P C
+			ParacausalEntity.DisplayName: Osservatore Paracausale
+			ParacausalEnigma.DisplayName: Enigma Paracausale
+			StarfarerBossWallsNPC.DisplayName: Muro della Viaggiatrice Stellare (NPC)
 			SemaphoreEnemy.DisplayName: Semaphore
-			LogicBombEnemy.DisplayName: Logic Bomb
-			LogicVirusEnemy.DisplayName: Logic Virus
+			LogicBombEnemy.DisplayName: Bomba Logica
+			LogicVirusEnemy.DisplayName: Virus Logico
 		}
 
 		BossAttacks: {
