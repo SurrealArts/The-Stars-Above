@@ -5611,77 +5611,80 @@ Mods: {
 			StellarNovaDialogue: {
 				StellarNovaQuotes: {
 					1: {
-						Special1: I'll never back down!
-						Special2: Don't even think about running.
-						Special3: With only one strike!
-						Special4: Your wish is my command.
-						Special5: Just give up! At this point, even I can't stop myself.
-						Special6: I have no regrets; this is the only path.
-						1: No more playing around!
-						2: Time for a counterattack!
-						3: We can't stop now!
-						4: (Laughs), alright!
-						5: I'll never back down!
-						6: Time to turn the tides!
-						7: I'll show you what I can REALLY do!
-						8: Your fate was sealed when you rose against us.
-						9: Accept your fate.
-						10: Why hold back when you could solve the problem right now?
-						11: Underestimate me if you want!
-						12: Let's finish this.
-						13: Don't even think about running!
-						14: Your wish is my command.
-						15: I'll reduce you to stardust!
-						16: I've been waiting for this exact moment!
-						17: I am NOT about to stop here.
-						18: Now or never.
-						Joke: Wait, which one were we using again?
+						Special1: Non mi arrenderò mai!
+						Special2: Pensi di poter fuggire?
+						Special3: In un colpo solo!
+						Special4: Ogni tuo desiderio è un ordine.
+						#Next one is a Fate quote, will have to cross-reference
+						Special5: Just give up. At this point, even I can't stop myself.
+						Special6: Non mi lasci altra scelta.
+						1: Ora si fa sul serio!
+						2: Al contrattacco!
+						3: Siamo inarrestabili!
+						4: (Risata), così si fa!
+						5: Non mi arrenderò mai!
+						6: Il vantaggio è nostro!
+						7: Lascia che ti mostri di cosa sono DAVVERO capace.
+						8: Il tuo destino è stato segnato quando hai deciso di sfidarci.
+						9: Accetta il tuo destino.
+						10: Perché trattenersi quando la soluzione al problema è davanti ai tuoi occhi?
+						11: Sottovalutami pure!
+						12: Facciamola finita.
+						13: Pensi di poter fuggire?
+						14: Ogni tuo desiderio è un ordine.
+						15: Ti ridurrò in polvere!
+						16: Aspettavo proprio questo momento!
+						17: Non mi fermerò qui.
+						18: Ora o mai più.
+						Joke: Aspetta, quale dovevo usare?
 					}
 
 					2: {
-						Special1: Time to prove myself.
-						Special2: Don't even think about running.
-						Special3: Didn't see that one coming, huh?
+						Special1: È ora di mostrare le mie abilità.
+						Special2: Pensi di poter fuggire?
+						Special3: Non te l'aspettavi, vero?
+						#Next three are Fate references as well
 						Special4: I'll show you the domain of the soul.
 						Special5: Know that you are dimensions below me.
 						Special6: I am the bone of my sword...
-						1: Locked on target.
-						2: I'll show you what I can really do.
-						3: Your fate was sealed when you rose against us.
-						4: Accept your fate.
-						5: Wow. Is that really all you've got?
-						6: Accept your fate. There is nothing else you can do.
-						7: Losing was never an option.
-						8: I am NOT about to stop here.
-						9: Submit to entropy!
-						10: Time to finish this.
-						11: Didn't see that one coming, huh?
-						12: Don't even think about running!
-						13: Time to prove myself.
-						14: (Laughs)
-						15: We can't stop now!
-						16: Time for a counterattack.
-						17: No more playing around!
-						18: We've got one shot at this; make it count.
-						Joke: Um, how did it go again? Something something...
+						1: Bersaglio agganciato.
+						2: Lascia che ti mostri di cosa sono capace.
+						3: Il tuo destino è stato segnato quando hai deciso di sfidarci.
+						4: Accetta il tuo destino.
+						5: Wow. Tutto qui quello che sai fare?
+						6: Non c'è altro che tu possa fare, se non accettare la sconfitta.
+						7: Non c'erano dubbi sulla nostra vittoria.
+						8: Non mi fermerò qui.
+						9: Arrenditi all'entropia!
+						10: Facciamola finita.
+						11: Non te l'aspettavi, vero?
+						12: Pensi di poter fuggire?
+						13: È ora di mostrare le mie abilità.
+						14: (Risata)
+						15: Non possiamo fermarci qui!
+						16: Passiamo al contrattacco.
+						17: Basta scherzare.
+						18: Abbiamo un solo tentativo; non sprecarlo.
+						Joke: Uh, com'è che che faceva? Qualcosa qualcos'altro...
 					}
 				}
 
+				#Still don't know whether to translate Stellar Nova or not. It feels right, but... hmm.
 				MiscInfo: {
 					Confirm: {
-						Asphodene: Finished modifying the Stellar Nova?
-						Eridani: Are you finished modifying the Stellar Nova..?
+						Asphodene: Hai fatto con le modifiche alla Nova Stellare?
+						Eridani: Hai cambiato ciò che volevi alla Nova Stellare...?
 					}
 
 					Reset: {
-						Asphodene: Would you like to deselect the current Stellar Nova?
-						Eridani: We can reset the Stellar Nova, if you'd like.
+						Asphodene: Vuoi rimuovere tutte le modifiche della Nova Stellare?
+						Eridani: Possiamo resettare la Nova Stellare, se vuoi.
 					}
 				}
 
 				Prisms: {
-					Asphodene: You can insert Stellar Prisms here, changing the Nova's effects. Set bonuses are also important!
-					Eridani: Insert Stellar Prisms here to change the Nova's effects. Don't forget their set bonuses, too.
+					Asphodene: Se hai dei Prismi Stellari puoi inserirli qui e gli effetti della Nova cambieranno di conseguenza. Ricordati dei set bonus!
+					Eridani: Metti qui i Prismi Stellari per cambiare gli effetti della Nova. Non dimenticarti dei set bonus.
 				}
 
 				PrototokiaAster: {
