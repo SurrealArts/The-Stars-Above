@@ -366,45 +366,45 @@ Mods: {
 				}
 
 				IronWill: {
-				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Volontà Ferrea']"
-				    	Description: Aumenta la difesa di 6. Subisci 30 danni in meno dagli attacchi che infliggono più di 100 danni. Se hai meno di 100 punti vita, subisci il 20% di danno in meno da ogni attacco, calcolato a parte dalle difese.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Divoratore di Mondi o il Cervello di Cthulhu"
+				  Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Volontà Ferrea']"
+				  Description: Aumenta la difesa di 6. Subisci 30 danni in meno dagli attacchi che infliggono più di 100 danni. Se hai meno di 100 punti vita, subisci il 20% di danno in meno da ogni attacco, calcolato a parte dalle difese.
+				  Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Divoratore di Mondi o il Cervello di Cthulhu"
 				}
 
 				UmbralEntropy: {
-				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Entropia Oscura']"
-				    	Description: Ogni colpo critico infligge Infezione Astrale. Colpire un nemico affetto da Infezione Astrale rigenera la tua vita. Max 5 punti vita al secondo.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Signore della Luna"
+				  Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Entropia Oscura']"
+				  Description: Ogni colpo critico infligge Infezione Astrale. Colpire un nemico affetto da Infezione Astrale rigenera la tua vita. Max 5 punti vita al secondo.
+				  Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Signore della Luna"
 				}
 
 				FlashFreeze: {
-				   	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Congelamento Istantaneo']"
-				   	Description: I colpi critici inflitti fanno esplodere i nemici, infliggendo il 50% del danno base nell'area circostante. Inoltre, vengono generati fiocchi di neve dal nemico colpito, allargando ulteriormente l'area in cui il danno viene inflitto. 8 secondi di ricarica.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi l'Imperatrice della Luce"
+				  Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Congelamento Istantaneo']"
+				  Description: I colpi critici inflitti fanno esplodere i nemici, infliggendo il 50% del danno base nell'area circostante. Inoltre, vengono generati fiocchi di neve dal nemico colpito, allargando ulteriormente l'area in cui il danno viene inflitto. 8 secondi di ricarica.
+					Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi l'Imperatrice della Luce"
 				}
 
 				MysticForging: {
-				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Forgiatura Mistica']"
-				    	Description: Converte la chance di colpi critici in danno extra (1% critico = 0.5% danni extra, max 60%). I colpi critici sono disabilitati, a meno che non siano causati da un effetto speciale. Aumenta la velocità d'attacco fino al 15% in base alla chance di critico.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi Penthesilea, la Strega dell'Inchiostro"
+				  Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Forgiatura Mistica']"
+				  Description: Converte la chance di colpi critici in danno extra (1% critico = 0.5% danni extra, max 60%). I colpi critici sono disabilitati, a meno che non siano causati da un effetto speciale. Aumenta la velocità d'attacco fino al 15% in base alla chance di critico.
+				  Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi Penthesilea, la Strega dell'Inchiostro"
 				}
 
 				InnerAlchemy:  {
-				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Alchimia Interiore']"
-				    	Description: Dopo 12 secondi senza subire danni, ottieni un buff che aumenta il danno inflitto del 10%, la difesa di 25, conferisce resistenza al Contraccolpo e Rigenerazione Salute. Il buff viene rimosso quando vieni colpito.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi Skeletron"
+				  Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Alchimia Interiore']"
+				  Description: Dopo 12 secondi senza subire danni, ottieni un buff che aumenta il danno inflitto del 10%, la difesa di 25, conferisce resistenza al Contraccolpo e Rigenerazione Salute. Il buff viene rimosso quando vieni colpito.
+				  Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi Skeletron"
 				}
 
 				Hikari:	{
-				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Hikari']"
-				    	Description: Aumenta danno inflitto e difesa di (Vita Massima/20). Subire danno riduce il tuo attacco del 50% per 6 secondi.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi la Regina del Ghiaccio"
+				  Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Hikari']"
+				  Description: Aumenta danno inflitto e difesa di (Vita Massima/20). Subire danno riduce il tuo attacco del 50% per 6 secondi.
+				  Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi la Regina del Ghiaccio"
 				}
 
 				CelestialEvanesence: {
-				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Evanescenza Celestiale']"
-				    	Description: La probabilità di infliggere colpi critici aumenta del (Mana Attuale/20)% . Ogni colpo critico ripristina mana pari al 5% del danno inflitto. (Max 5 mana)
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi Dioskouroi, le Forze Gemelle"
+				  Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Evanescenza Celestiale']"
+				  Description: La probabilità di infliggere colpi critici aumenta del (Mana Attuale/20)% . Ogni colpo critico ripristina mana pari al 5% del danno inflitto. (Max 5 mana)
+				  Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi Dioskouroi, le Forze Gemelle"
 				}
 
 				SpectralNail: {
@@ -468,87 +468,87 @@ Mods: {
 				}
 
 				HealthyConfidence: {
-				    	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Sana Autostima']"
-				    	Description:  Ogni secondo, per 10 secondi dopo aver subito danno, recupera vita pari al 1.5% dei danni che subisci
-				    	Unlock: "[c/9D9D9D:Bloccato:] Alza la tua vita massima naturale a 400"
+				  Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Sana Autostima']"
+				  Description: Ogni secondo, per 10 secondi dopo aver subito danno, recupera vita pari al 1.5% dei danni che subisci
+				  Unlock: "[c/9D9D9D:Bloccato:] Alza la tua vita massima naturale a 400"
 				}
 
 				InfernalEnd:  {
-				    	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Fine Infernale']"
-				    	Description: Quando hai meno di 100 punti vita, infliggi il 50% di danni in più e tutti gli attacchi bruciano i nemici. Quando subisci danno, per 3 secondi questi effetti vengono applicati a prescindere dalla vita attuale.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi un qualsiasi Boss Meccanico"
+				  Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Fine Infernale']"
+				  Description: Quando hai meno di 100 punti vita, infliggi il 50% di danni in più e tutti gli attacchi bruciano i nemici. Quando subisci danno, per 3 secondi questi effetti vengono applicati a prescindere dalla vita attuale.
+				  Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi un qualsiasi Boss Meccanico"
 				}
 
 				AvatarOfLight: {
-				    	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Avatar di Luce']"
-				    	Description: Aumenta la vita massima di (Mana massimo/2). Se la vita massima supera 500, ottieni 10 difesa, 5% inflitti in più e rigenerazione della Nova Stellare (3 punti al secondo).
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi l'Invasione Marziana"
+				  Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Avatar di Luce']"
+				  Description: Aumenta la vita massima di (Mana massimo/2). Se la vita massima supera 500, ottieni 10 difesa, 5% inflitti in più e rigenerazione della Nova Stellare (3 punti al secondo).
+				  Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi l'Invasione Marziana"
 				}
 
 				AstralMantle: {
-				    	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Mantello Astrale']"
-				    	Description: Aumenta la difesa del 10% del tuo mana attuale (max 5% della vita massima). Rigenera la Nova Stellare di 5 punti al secondo quando hai più di 200 mana.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi tutti i Boss Meccanici"
+				  Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Mantello Astrale']"
+				  Description: Aumenta la difesa del 10% del tuo mana attuale (max 5% della vita massima). Rigenera la Nova Stellare di 5 punti al secondo quando hai più di 200 mana.
+				  Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi tutti i Boss Meccanici"
 				}
 
 				Afterburner: {
-				    	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Postcombustore']"
-				    	Description: Quando hai meno di 40 mana, ottieni 150 mana e tutti gli attacchi sono critici per 4 secondi. 20 secondi di ricarica.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi Plantera"
+				  Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Postcombustore']"
+				  Description: Quando hai meno di 40 mana, ottieni 150 mana e tutti gli attacchi sono critici per 4 secondi. 20 secondi di ricarica.
+				  Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi Plantera"
 				}
 
 				SpatialStratagem: {
-				    	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Stratagemma Spaziale']"
-				    	Description: Dimezza la prima istanza di danno ricevuta. In seguito, dimezza tutti i danni nemici per 2 secondi e infliggi il 20% di danni extra per 4 secondi. 30 secondi di ricarica. (Subire danno durante la ricarica la resetta)
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi ???"
+				  Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Stratagemma Spaziale']"
+				  Description: Dimezza la prima istanza di danno ricevuta. In seguito, dimezza tutti i danni nemici per 2 secondi e infliggi il 20% di danni extra per 4 secondi. 30 secondi di ricarica. (Subire danno durante la ricarica la resetta)
+				  Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi ???"
 				}
 
 				WeaknessExploit: {
-				    	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Sfrutta Debolezza']"
-				    	Description: I colpi critici infliggono danno extra puro, pari al 10% del danno iniziale (non letale). I nemici afflitti da debuff presenti nel gioco base subiscono il 15% di danni in più.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Golem"
+				  Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Sfrutta Debolezza']"
+				  Description: I colpi critici infliggono danno extra puro, pari al 10% del danno iniziale (non letale). I nemici afflitti da debuff presenti nel gioco base subiscono il 15% di danni in più.
+				  Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Golem"
 				}
 
 				Aprismatism: {
-				    	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Aprismatismo']"
-				    	Description: Puoi cambiare il tipo di danno infltto da tutte le armi (anche quelle non della mod) tramite la Matrice Stellare.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi Thespian, l'Alchimista"
+			  	Name: "[c/9C4FFF:Livello 2] [c/FFD792:'Aprismatismo']"
+			  	Description: Puoi cambiare il tipo di danno infltto da tutte le armi (anche quelle non della mod) tramite la Matrice Stellare.
+			  	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi Thespian, l'Alchimista"
 				}
 
 				UnbridledRadiance: {
-				    	Name: "[c/D82BFF:Livello 3] [c/FFC258:'Luminosità Sconfinata']"
-				    	Description: Raddoppia la rigenerazione della Nova Stellare. La Nova Stellare non si scarica al di fuori del combattimento.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi tutti i boss di Terraria e il Guerriero della Luce"
+		    	Name: "[c/D82BFF:Livello 3] [c/FFC258:'Luminosità Sconfinata']"
+		    	Description: Raddoppia la rigenerazione della Nova Stellare. La Nova Stellare non si scarica al di fuori del combattimento.
+		    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi tutti i boss di Terraria e il Guerriero della Luce"
 				}
 
 				BetweenTheBoundary: {
-				    	Name: "[c/D82BFF:Livello 3] [c/FFC258:'In Mezzo al Confine']"
-				    	Description: Ogni 8 secondi, cambia stato tra Flusso (rigenerazione del mana infinita) e Riflusso (rapido prosciugamento mana). Durante Flusso infliggi il 40% danno in più e la velocità d'attacco aumenta del 20%.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi tutti i boss di Terraria e tutti i boss della The Stars Above, eccetto il boss finale"
+		    	Name: "[c/D82BFF:Livello 3] [c/FFC258:'In Mezzo al Confine']"
+		    	Description: Ogni 8 secondi, cambia stato tra Flusso (rigenerazione del mana infinita) e Riflusso (rapido prosciugamento mana). Durante Flusso infliggi il 40% danno in più e la velocità d'attacco aumenta del 20%.
+		    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi tutti i boss di Terraria e tutti i boss della The Stars Above, eccetto il boss finale"
 				}
 
 				CyclicHunter: {
-				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Cacciatore Ciclico']"
-				    	Description: Dopo aver sconfitto un nemico, infliggi il 10% di danno in più per mezzo secondo e ripristina (5% della vita massima del nemico + 12) mana. 2 secondi di ricarica.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Re Slime"
+		    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Cacciatore Ciclico']"
+		    	Description: Dopo aver sconfitto un nemico, infliggi il 10% di danno in più per mezzo secondo e ripristina (5% della vita massima del nemico + 12) mana. 2 secondi di ricarica.
+		    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Re Slime"
 				}
 
 				LivingDead: {
-				    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Morto Vivente']"
-				    	Description: Quando ricevi danno fatale, ritarda la tua morte per 6 secondi, alla fine dei quali muori se la tua vita non è almeno 150. (4 minuti di ricarica). Non puoi attivare quest'abilità se la tua vita massima non è almeno 200.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Re Zucca"
+		    	Name: "[c/C2BDFF:Livello 1] [c/FFEED1:'Morto Vivente']"
+		    	Description: Quando ricevi danno fatale, ritarda la tua morte per 6 secondi, alla fine dei quali muori se la tua vita non è almeno 150. (4 minuti di ricarica). Non puoi attivare quest'abilità se la tua vita massima non è almeno 200.
+		    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Re Zucca"
 				}
 
 				BeyondInfinity: {
-				    	Name: "[c/D82BFF:Livello 3] [c/FFC258:'Oltre l'Infinito']"
-				    	Description: Le armi con Aspetto di rarità inferiore ottengono un enorme bonus (fino al 1200%) al danno in base alla loro rarità originale. Non ha effetto su armi con un danno base superiore a 100.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi tutti i boss di Terraria"
+		    	Name: "[c/D82BFF:Livello 3] [c/FFC258:'Oltre l'Infinito']"
+		    	Description: Le armi con Aspetto di rarità inferiore ottengono un enorme bonus (fino al 1200%) al danno in base alla loro rarità originale. Non ha effetto su armi con un danno base superiore a 100.
+		    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi tutti i boss di Terraria"
 				}
 
-			  	KeyOfChronology: {
-				    	Name: "[c/D82BFF:Livello 3] [c/FFC258:'Chiave della Cronologia']"
-				    	Description: Invece di subire un attacco da almeno 200 danni, ripristina altrettanta vita e diventa Invulnerabile per 5 secondi. Inoltre, tutti i nemici non-boss nei dintorni vengono storditi per 5 secondi. 2 minuti di ricarica.
-				    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Signore della Luna"
+		  	KeyOfChronology: {
+		    	Name: "[c/D82BFF:Livello 3] [c/FFC258:'Chiave della Cronologia']"
+		    	Description: Invece di subire un attacco da almeno 200 danni, ripristina altrettanta vita e diventa Invulnerabile per 5 secondi. Inoltre, tutti i nemici non-boss nei dintorni vengono storditi per 5 secondi. 2 minuti di ricarica.
+		    	Unlock: "[c/9D9D9D:Bloccato:] Sconfiggi il Signore della Luna"
 				}
 			}
 		}
@@ -1957,34 +1957,34 @@ Mods: {
 			BossDialogue: {
 				KingSlime: {
 					Asphodene: {
-						Name: King Slime Dialogue
+						Name: Dialogo di Re Slime
 						Description: ""
-						1: You've defeated the Slime King, huh? Good job.
-						2: It does do feel like the beginning of a journey. Slimes often serve a good first foe.
+						1: Avete sconfitto il Re Slime, eh? Ottimo lavoro.
+						2: Sembra davvero l'inizio di un avventura. Gli slime sono spesso un buon primo avversario.
 
 						3: {
-							$parentVal: Did anyone else see that ninja thing? Was it just me?
+							$parentVal: Qualcun altro ha visto quella cosa ninja? Sono stato solo io?
 							E: Thinking
 						}
 
 						4: {
-							$parentVal: ...Well, that's all for now. Keep it up.
+							$parentVal: ...Beh, per ora è tutto. Continua così.
 							E: Happy
 						}
 					}
 
 					Eridani: {
-						Name: King Slime Dialogue
+						Name: Dialogo di Re Slime
 						Description: ""
-						1: It may have seemed weak, but the Slime King was truly quite the threat.
+						1: Poteva sembrare debole, ma il Re Slime era davvero una minaccia.
 
 						2: {
-							$parentVal: Let's hope it stays dead. I know slimes aren't a big fan of that.
+							$parentVal: Speriamo che rimanga morto. So che alle melme non piace.
 							E: Angry
 						}
 
 						3: {
-							$parentVal: However, if it does return, you should be able to easily defeat it anew; that's usually how it goes.
+							$parentVal: Tuttavia, se torna, dovresti essere in grado di sconfiggerlo di nuovo; di solito va così.
 							E: Happy
 						}
 					}
@@ -1992,31 +1992,31 @@ Mods: {
 
 				CthulhuEye: {
 					Asphodene: {
-						Name: Eye of Cthulhu Dialogue
+						Name: Dialogo di Occhio di Cthulhu
 						Description: ""
-						1: "'Eye of Cthulhu'? "
+						1: "'l'Occhio di Cthulhu'? "
 
 						2: {
-							$parentVal: Doesn't that imply there would be more of this 'Cthulhu'?
+							$parentVal: Questo non implica che ci saranno altri 'Cthulhu'?
 							E: Thinking
 						}
 
 						3: {
-							$parentVal: If it ever reared its head, it would be quite the formidable foe indeed.
+							$parentVal: Se mai dovesse rialzare la testa, sarebbe davvero un avversario formidabile.
 							E: Worried
 						}
 
-						4: Let's prepare for that occasion... Just in case.
+						4: Prepariamoci per questa occasione... Non si sa mai.
 					}
 
 					Eridani: {
-						Name: Eye of Cthulhu Dialogue
+						Name: Dialogo di Occhio di Cthulhu
 						Description: ""
-						1: For how fearsome it looked, the Eye of Cthulhu wasn't too terrible, was it?
-						2: It seems to have shed its skin to display quite an array of teeth.
+						1: Per quanto spaventoso potesse sembrare, l'Occhio di Cthulhu non era poi così terribile, no?
+						2: Sembra che si sia liberato della pelle per mostrare una serie di denti.
 
 						3: {
-							$parentVal: If I didn't know better, it looked like it was trying to prove something. Weirdo.
+							$parentVal: Se non lo sapessi, sembrava che volesse dimostrare qualcosa. Strambo.
 							E: Angry
 						}
 					}
@@ -2024,40 +2024,41 @@ Mods: {
 
 				CorruptionBoss: {
 					Asphodene: {
-						Name: World Evil Boss Dialogue
+						Name: Dialogo di Boss del Mondo Malvagio
 						Description: ""
 
+						#Need help: Not sure how to translate "That does track." Closest I could infer is "Questo fa notizia."
 						1: {
-							$parentVal: So, the obviously corroded part of the world also had a big bad monster waiting inside of it. That does track.
+							$parentVal: Quindi, la parte ovviamente corrosa del mondo aveva anche un grande mostro malvagio che l'aspettava al suo interno. Questo fa notizia.
 							E: Angry
 						}
 
-						2: I'm starting to think that you just like the challenge... Well, something tells me there's more where that comes from.
+						2: Comincio a pensare che ti piaccia solo la sfida... Beh, qualcosa mi dice che c'è dell'altro.
 					}
 
 					Eridani: {
-						1: I'm glad you've taken care of that evil looking fiend. Perhaps it's best we stay away from the oddly colored soil from now on?
-						Name: World Evil Boss Dialogue
+						1: Sono contento che vi siate occupati di quel demone dall' apparenza malvagia. Forse è meglio stare lontani dal suolo di colore strano d'ora in poi?
+						Name: Dialogo di Boss del Mondo Malvagio
 						Description: ""
 					}
 				}
 
 				QueenBee: {
 					Asphodene: {
-						Name: Queen Bee Dialogue
+						Name: Dialogo di Ape Regina
 						Description: ""
-						1: Well, I guess I should have expected something like this within the Jungle.
-						2: Good work. Let's hope a bath takes all that honey off of you...
+						1: Beh, credo che avrei dovuto aspettarmi qualcosa del genere all'interno della Giungla.
+						2: Ottimo lavoro. Speriamo che un bagno ti tolga tutto quel miele di dosso...
 					}
 
 					Eridani: {
-						Name: Queen Bee Dialogue
+						Name: Dialogo di Ape Regina
 						Description: ""
-						1: Seriously? A giant bee... Somehow, I might prefer it over smaller insects... Easier to hit, you know.
-						2: You'll probably encounter a few, considering you're now dripping with insanely sweet honey.
+						1: Seriamente? Un'ape gigante... In qualche modo, potrei preferirla rispetto agli insetti più piccoli... Più facile da colpire, sai.
+						2: Probabilmente ne incontrerai alcuni, considerando che ora sei ricoperto di miele incredibilmente dolce.
 
 						3: {
-							$parentVal: Now that I'm thinking of how sticky that honey is, I am truly sorry. At least it's edible...?
+							$parentVal: Ora che sto pensando a quanto sia appiccicoso quel miele, mi dispiace davvero. Almeno è commestibile...?
 							E: Worried
 						}
 					}
@@ -2065,24 +2066,24 @@ Mods: {
 
 				Skeletron: {
 					Asphodene: {
-						Name: Skeletron Dialogue
+						Name: Dialogo di Skeletron
 						Description: ""
-						1: The Clothier was truly a gigantic evil skeleton monster.. Cute. At the very least, you have access to the Dungeon now.
-						2: Okay, I know you're chomping at the bit to go down and do some spelunking, but- Actually, never mind. I'm curious too. Let's get going.
+						1: Il Sarto era davvero un gigantesco mostro scheletro malvagio... Carino. Almeno ora hai accesso al Dungeon.
+						2: Okay, so che non vedi l'ora di scendere e fare un po' di speleologia, ma... In realtà, lascia perdere. Anch'io sono curioso. Andiamo.
 					}
 
 					Eridani: {
-						Name: Skeletron Dialogue
+						Name: Dialogo di Skeletron
 						Description: ""
-						1: That poor Clothier, cursed to become Skeletron. It seems his defeat has granted us access to the Dungeon. This may be in bad taste, but...
+						1: Quel povero Sarto, maledetto a diventare Skeletron. Sembra che la sua sconfitta ci abbia permesso di accedere al Dungeon. Forse è di cattivo gusto, ma...
 
 						2: {
-							$parentVal: If the embodiment of your emotions is a huge monster... maybe, just maybe, the curse wasn't the sole factor.
+							$parentVal: Se l'incarnazione delle vostre emozioni è un mostro enorme... forse, molto forse, la maledizione non è stata l'unico fattore.
 							E: Thinking
 						}
 
 						3: {
-							$parentVal: If anyone asks, you didn't hear that from me.
+							$parentVal: Se qualcuno lo chiede, non l'ha saputo da me.
 							E: Worried
 						}
 					}
